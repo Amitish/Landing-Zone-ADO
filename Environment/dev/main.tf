@@ -57,7 +57,7 @@ module "sql_server" {
   rg_name         = "dhondu"
   location        = "eastus"
   admin_username  = "dholu"
-  admin_password  = "Withot@12345"
+  admin_password  = "Without@12345"
   tags = {
     environment = "dev-test"
     owner       = "uinocorn"
